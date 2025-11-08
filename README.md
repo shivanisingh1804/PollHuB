@@ -177,8 +177,3 @@ poll-frontend/.env
 **Shivani Singh**
 🎓 B.Tech CSE (AI Specialization)
 🔗 [GitHub Profile](https://github.com/shivanisingh1804)
-
----
-
-Would you like me to add **GitHub-style badges** (like “Made with Node.js”, “MongoDB”, “Frontend React”) at the top of this README for a more professional look?
-```
